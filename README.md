@@ -3,6 +3,9 @@
 ###### Sobre mim
 Estudante de programação, tentando aprender o suficiente para conseguir migrar com sucesso para a área.
 
+### Detalhes
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-ssilva2706&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **lucas-ssilva2706/lucas-ssilva2706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
