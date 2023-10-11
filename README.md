@@ -4,7 +4,7 @@
 Estudante de programação, com o objetivo de progredir o suficiente para conseguir migrar com sucesso para a área.
 
 ### Detalhes
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-ssilva2706&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-ssilva2706&show_icons=true&theme=dark&hide_title=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
